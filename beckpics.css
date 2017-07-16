@@ -1,0 +1,71 @@
+body {
+  background-image: url("https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/13265913_1167038860007652_3134113354223233883_n.jpg?oh=815d0fa22b384b7a273d8b6114844400&oe=59C3A167");
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+header {
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+  color: red;
+  font-family: Arial Black;
+  border: 4px solid #A00;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 500;
+  font-family: vivaldi;
+  color: blue;
+  font-size: 150px;
+  text-shadow: 2px 2px #ff0000;
+}
+h2 {text-align: center;
+  font-weight: 500;
+  font-family: vivaldi;
+  color: blue;
+  font-size: 100px;
+ text-shadow: 2px 2px #ff0000;}
+
+.bigbeck {
+  font-family: Arial;
+  font-size: 24px;
+  color: orange;
+  text-align: center;
+  border: 1px solid #000;
+   text-shadow: 2px 1px black;
+}
+.beckv {width: 200px;
+  height: auto;
+  overflow: hidden;
+  }
+.beckh {
+  height: 200px;
+  width: auto;
+  overflow: hidden;
+  
+}
+h3 {text-align: center;
+background-color: red}
+
+div {background-color: red;
+width: 100px;
+height: 50px;
+color: white;
+text-align: center;
+font-size: 35px;
+font-family: Comic Sans MS;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 20px solid black;
+}
+
+div hover { background-color: #FF000;
+}
+a {text-decoration: none;}
+a:hover { background-color: #FF000;
+}
