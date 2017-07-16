@@ -5,7 +5,20 @@ body {
     background-size: cover;
    
 }
-th {font-size: 40px;}
+table {border: 4px solid black}
+
+td {
+	border: 3px #70b8ff dashed;
+  text-align: center;
+
+    margin: auto;}
+h6 {font-size: 40px;
+text-align:center;
+text-shadow: 4px 2px white;
+background-color: #70b8ff;
+}
+
+
 header {
   text-align: center;
   font-weight: 500;
@@ -63,11 +76,11 @@ margin-left: auto;
 margin-right: auto;
 border: 20px solid black;
 }
-table {border: 4px solid black}
-div hover { background-color: #FF000;
-}
-td {
-	border: 3px #70b8ff dashed;}
+
 a {text-decoration: none;}
-a:hover { background-color: #FF000;
+
+
+iframe {
+    display: block;
+    margin: auto;    
 }
