@@ -5,7 +5,7 @@ body {
     background-size: cover;
    
 }
-
+th {font-size: 40px;}
 header {
   text-align: center;
   font-weight: 500;
@@ -63,9 +63,11 @@ margin-left: auto;
 margin-right: auto;
 border: 20px solid black;
 }
-
+table {border: 4px solid black}
 div hover { background-color: #FF000;
 }
+td {
+	border: 3px #70b8ff dashed;}
 a {text-decoration: none;}
 a:hover { background-color: #FF000;
 }
